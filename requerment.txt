@@ -1,0 +1,5 @@
+pandas
+os
+pathlib
+sqlalchemy
+psycopg2
